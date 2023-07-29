@@ -1,0 +1,16 @@
+Pros of E:
+Reusable Code
+Easy to Test
+Easy to understand the business logic
+Easy to Extend Classes
+
+Cons of E:
+None
+
+Props of D:
+None
+
+Cons of D:
+Testing is Difficult
+Repeated Code Pattern
+Complex to understand the core logic
